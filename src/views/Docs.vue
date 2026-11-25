@@ -26,7 +26,7 @@
       <pre>curl -X POST "{{ baseUrl }}/api/paypal/chat" \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $KEY" \
-  -d '{"instruction":"你好","model":"@cf/meta/llama-3.1-8b-instruct","maxTokens":512}'</pre>
+  -d '{"instruction":"你好","model":"你的模型名","maxTokens":512}'</pre>
       <p>返回：</p>
       <pre>{ "content": "……" }</pre>
       <p class="muted">model 可空：传了必须存在于模型库，不传则使用该能力的默认模型。所有模型接口均需令牌，并按调用扣费。</p>

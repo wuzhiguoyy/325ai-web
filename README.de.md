@@ -19,7 +19,7 @@ Frontend für **325 AI Models** — eine Plattform für KI-Modell-Aggregation un
 - **Modellmarktplatz** — Hunderte LLMs und Medienmodelle nach Fähigkeit durchsuchen, Kontextfenster und Preise pro Token / pro Aufruf vergleichen
 - **Entwickler-Konsole** — API-Schlüssel, Nutzungsprotokolle, Monatsrechnungen, Abrechnungsjournal, Wallet und Empfehlungsprogramm
 
-**Keywords**: KI-Modell API, LLM API Marktplatz, OpenAI API Alternative, Claude API Zugang, Gemini API Zugang, DeepSeek API, KI API für Unternehmen, GPT API Europa, KI Schnittstelle, pay per use KI, Modell-Aggregator, DSGVO-freundliche Integration, Vue 3 Dashboard, Vite, Text-zu-Bild API, Text-zu-Video API, Embeddings API.
+**Keywords**: KI-Modell API, LLM API Marktplatz, OpenAI API Alternative, Claude API Zugang, Gemini API Zugang, KI API für Unternehmen, GPT API Europa, KI Schnittstelle, pay per use KI, Modell-Aggregator, DSGVO-freundliche Integration, Vue 3 Dashboard, Vite, Text-zu-Bild API, Text-zu-Video API, Embeddings API.
 
 ---
 

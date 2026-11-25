@@ -19,7 +19,7 @@ Vue 3 · Vite · 纯静态部署 · 自带 SEO（sitemap / robots / JSON-LD）
 - 模型广场：按能力分类浏览 AI 模型，查看价格、上下文与接入方式
 - 用户控制台：令牌管理、使用日志、每月账单、计费流水、钱包、分享赚钱、个人设置
 
-**关键词**：AI 模型 API、大模型中转、模型聚合平台、GPT API、Claude API、Gemini API、DeepSeek API、按量计费、模型广场、Vue3 控制台、Vite 静态站点、SEO 单页应用。
+**关键词**：AI 模型 API、大模型中转、模型聚合平台、GPT API、Claude API、Gemini API、按量计费、模型广场、Vue3 控制台、Vite 静态站点、SEO 单页应用。
 
 ---
 

@@ -19,7 +19,7 @@ Frontend for **325 AI Models**, an AI model aggregation and API platform built f
 - **Model marketplace** — browse hundreds of LLMs and media models, compare context windows and per-token / per-call pricing in USD
 - **Developer console** — API keys, usage logs, monthly invoices, billing ledger, wallet (USDT) and referral program
 
-**Keywords**: AI API Africa, LLM API Nigeria, AI API Kenya, AI API South Africa, AI API Ghana, AI API Egypt, AI API Morocco, cheap GPT API Africa, Claude API access Africa, Gemini API access Africa, DeepSeek API Africa, AI API reseller, AI model aggregator, pay-as-you-go AI, USD billing AI API, text-to-image API, text-to-video API, embeddings API, Vue 3 dashboard, Vite.
+**Keywords**: AI API Africa, LLM API Nigeria, AI API Kenya, AI API South Africa, AI API Ghana, AI API Egypt, AI API Morocco, cheap GPT API Africa, Claude API access Africa, Gemini API access Africa, AI API reseller, AI model aggregator, pay-as-you-go AI, USD billing AI API, text-to-image API, text-to-video API, embeddings API, Vue 3 dashboard, Vite.
 
 ---
 

@@ -19,7 +19,7 @@ Frontend for **325 AI Models**, an AI model aggregation and API resale platform 
 - **Model marketplace** — browse hundreds of LLMs and media models by capability, compare context windows and per-token / per-call pricing
 - **Developer console** — API keys, usage logs, monthly invoices, billing ledger, wallet and referral program
 
-**Keywords**: AI model API, LLM API marketplace, OpenAI API alternative, Claude API access, Gemini API access, DeepSeek API, AI API reseller, unified AI gateway, pay-as-you-go AI API, cheap LLM API for startups, model aggregation platform, Vue 3 dashboard, Vite static site, AI API for SaaS, text-to-image API, text-to-video API, embeddings API.
+**Keywords**: AI model API, LLM API marketplace, OpenAI API alternative, Claude API access, Gemini API access, AI API reseller, unified AI gateway, pay-as-you-go AI API, cheap LLM API for startups, model aggregation platform, Vue 3 dashboard, Vite static site, AI API for SaaS, text-to-image API, text-to-video API, embeddings API.
 
 ---
 
@@ -91,7 +91,7 @@ The build emits `dist/`, plus `dist/sitemap.xml` and `dist/robots.txt`.
 - `robots.txt` open for crawling; console pages are `noindex`
 - Semantic headings and internal linking across marketplace, detail and docs
 
-**Keywords for search engines**: AI API marketplace USA, LLM API Canada, OpenAI compatible API, GPT API access, Claude API proxy, Gemini API proxy, DeepSeek API access, AI model aggregator, pay per token AI API, AI API for indie developers, AI API for startups, multi-model API gateway, AI model pricing comparison.
+**Keywords for search engines**: AI API marketplace USA, LLM API Canada, OpenAI compatible API, GPT API access, Claude API proxy, Gemini API proxy, AI model aggregator, pay per token AI API, AI API for indie developers, AI API for startups, multi-model API gateway, AI model pricing comparison.
 
 ---
 

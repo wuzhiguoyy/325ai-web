@@ -19,7 +19,7 @@ Vue 3 · Vite · 静的ホスティング · SEO対応（sitemap / robots / JSON
 - **モデルマーケットプレイス** — 数百のLLM・画像・動画モデルを機能別に閲覧し、コンテキスト長と料金を比較
 - **開発者コンソール** — APIキー管理、利用ログ、月次請求、課金履歴、ウォレット、紹介プログラム
 
-**キーワード**：AI API 日本, LLM API 比較, OpenAI API 代替, Claude API 利用, Gemini API 利用, DeepSeek API, 格安 AI API, 従量課金 API, AIモデル 集約, GPT API 日本語, 画像生成API, 動画生成API, 埋め込みAPI, Vue 3 ダッシュボード, Vite 静的サイト.
+**キーワード**：AI API 日本, LLM API 比較, OpenAI API 代替, Claude API 利用, Gemini API 利用, 格安 AI API, 従量課金 API, AIモデル 集約, GPT API 日本語, 画像生成API, 動画生成API, 埋め込みAPI, Vue 3 ダッシュボード, Vite 静的サイト.
 
 ---
 
