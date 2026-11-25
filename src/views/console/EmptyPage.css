@@ -1,0 +1,21 @@
+.panel { padding: 24px 26px 40px; display: flex; flex-direction: column; gap: 18px; }
+
+.card {
+  background: var(--panel); border: 1px solid var(--line);
+  border-radius: 14px; padding: 22px;
+}
+.card h1 { margin: 0 0 8px; font-size: 20px; }
+.desc { margin: 0 0 16px; color: var(--muted); font-size: 13px; line-height: 1.7; }
+
+.primary {
+  padding: 10px 16px; border-radius: 9px; border: 0;
+  color: #fff; background: linear-gradient(135deg, var(--brand), var(--brand-2));
+}
+.primary:disabled { opacity: .5; cursor: not-allowed; }
+
+.empty {
+  border: 1px dashed var(--line); border-radius: 14px;
+  padding: 48px 20px; text-align: center; background: var(--panel);
+}
+.empty-title { font-size: 15px; margin-bottom: 8px; }
+.empty-desc { color: var(--muted); font-size: 13px; }

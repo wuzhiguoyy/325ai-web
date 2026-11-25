@@ -1,0 +1,56 @@
+.panel { padding: 22px 26px 40px; display: flex; flex-direction: column; gap: 16px; }
+.title { margin: 0; font-size: 22px; }
+
+.card {
+  background: var(--panel); border: 1px solid var(--line);
+  border-radius: 14px; padding: 20px 22px;
+  display: flex; flex-direction: column; gap: 14px;
+}
+.card-head h2 { margin: 0; font-size: 15px; }
+
+.row {
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  padding: 6px 0;
+}
+.label { color: var(--muted); font-size: 12px; margin-bottom: 4px; }
+.value { font-size: 14px; }
+.value.small { font-size: 13px; color: var(--muted); }
+.mono { font-family: ui-monospace, Consolas, monospace; letter-spacing: 1px; }
+
+.ghost {
+  padding: 7px 14px; border-radius: 8px; cursor: pointer; font-size: 13px;
+  border: 1px solid var(--line); background: #fff; color: var(--text);
+}
+.danger {
+  padding: 8px 16px; border-radius: 8px; cursor: pointer; font-size: 13px;
+  border: 1px solid rgba(217, 74, 74, .3); background: #fff; color: #d94a4a;
+}
+.primary {
+  padding: 8px 16px; border-radius: 8px; border: 0; cursor: pointer;
+  color: #fff; background: linear-gradient(135deg, var(--brand), var(--brand-2));
+}
+.primary:disabled { opacity: .5; cursor: not-allowed; }
+
+.switch-row { display: flex; align-items: center; gap: 10px; font-size: 14px; cursor: pointer; }
+.switch-row input { width: 16px; height: 16px; accent-color: var(--brand); }
+.hint { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.7; }
+
+.mask {
+  position: fixed; inset: 0; z-index: 100;
+  background: rgba(15, 23, 42, .38); display: grid; place-items: center; padding: 20px;
+}
+.modal {
+  width: min(400px, 100%); background: var(--panel);
+  border: 1px solid var(--line); border-radius: 14px; padding: 22px;
+}
+.modal h2 { margin: 0 0 16px; font-size: 17px; }
+.modal label { display: block; margin-bottom: 12px; }
+.modal span { display: block; font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+.modal input {
+  width: 100%; padding: 10px 12px; border-radius: 8px;
+  border: 1px solid var(--line); background: #fff; color: var(--text); outline: none;
+}
+.error { color: #d94a4a; font-size: 12px; }
+.success { color: #1f9a58; font-size: 12px; }
+.note { color: var(--muted); font-size: 12px; margin: 0; }
+.modal-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 16px; }
